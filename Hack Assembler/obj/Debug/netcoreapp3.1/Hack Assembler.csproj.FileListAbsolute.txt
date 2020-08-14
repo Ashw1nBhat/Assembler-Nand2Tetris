@@ -1,0 +1,13 @@
+F:\code\Nand2Tetris\Hardware\Hack Assembler\Hack Assembler\Hack Assembler\bin\Debug\netcoreapp3.1\Hack Assembler.exe
+F:\code\Nand2Tetris\Hardware\Hack Assembler\Hack Assembler\Hack Assembler\bin\Debug\netcoreapp3.1\Hack Assembler.deps.json
+F:\code\Nand2Tetris\Hardware\Hack Assembler\Hack Assembler\Hack Assembler\bin\Debug\netcoreapp3.1\Hack Assembler.runtimeconfig.json
+F:\code\Nand2Tetris\Hardware\Hack Assembler\Hack Assembler\Hack Assembler\bin\Debug\netcoreapp3.1\Hack Assembler.runtimeconfig.dev.json
+F:\code\Nand2Tetris\Hardware\Hack Assembler\Hack Assembler\Hack Assembler\bin\Debug\netcoreapp3.1\Hack Assembler.dll
+F:\code\Nand2Tetris\Hardware\Hack Assembler\Hack Assembler\Hack Assembler\bin\Debug\netcoreapp3.1\Hack Assembler.pdb
+F:\code\Nand2Tetris\Hardware\Hack Assembler\Hack Assembler\Hack Assembler\obj\Debug\netcoreapp3.1\Hack Assembler.csprojAssemblyReference.cache
+F:\code\Nand2Tetris\Hardware\Hack Assembler\Hack Assembler\Hack Assembler\obj\Debug\netcoreapp3.1\Hack Assembler.AssemblyInfoInputs.cache
+F:\code\Nand2Tetris\Hardware\Hack Assembler\Hack Assembler\Hack Assembler\obj\Debug\netcoreapp3.1\Hack Assembler.AssemblyInfo.cs
+F:\code\Nand2Tetris\Hardware\Hack Assembler\Hack Assembler\Hack Assembler\obj\Debug\netcoreapp3.1\Hack Assembler.csproj.CoreCompileInputs.cache
+F:\code\Nand2Tetris\Hardware\Hack Assembler\Hack Assembler\Hack Assembler\obj\Debug\netcoreapp3.1\Hack Assembler.dll
+F:\code\Nand2Tetris\Hardware\Hack Assembler\Hack Assembler\Hack Assembler\obj\Debug\netcoreapp3.1\Hack Assembler.pdb
+F:\code\Nand2Tetris\Hardware\Hack Assembler\Hack Assembler\Hack Assembler\obj\Debug\netcoreapp3.1\Hack Assembler.genruntimeconfig.cache
